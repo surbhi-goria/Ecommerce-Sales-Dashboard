@@ -18,3 +18,5 @@ Project Learnings : Designed an interactive dashboard to analyze ecommerce sales
                     Analyzed payment behavior across modes like Credit Card, Debit Card, COD, and UPI to inform checkout strategy.
                     Used diverse chart types including bar charts, pie charts, clustered bars, and horizontal bars to present data clearly and effectively.
                     Enabled dropdown-based filtering to allow users to select and analyze sales data by individual states, enhancing regional insights and user control.
+
+Screenshot : https://github.com/surbhi-goria/Ecommerce-Sales-Dashboard/blob/main/Total%20Sales%20Analysis.png
