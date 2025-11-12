@@ -20,4 +20,5 @@ Project Learnings : Designed an interactive dashboard to analyze ecommerce sales
                     Enabled dropdown-based filtering to allow users to select and analyze sales data by individual states, enhancing regional insights and user control.
 
 Screenshots : https://github.com/surbhi-goria/Ecommerce-Sales-Dashboard/blob/main/Total%20Sales%20Analysis.png
+              
               https://github.com/surbhi-goria/Ecommerce-Sales-Dashboard/blob/main/Analysis%20by%20State.png
